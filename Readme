@@ -1,0 +1,10 @@
+Tetris - Tomáš Vyleťal
+
+Hra Tetris, nabízí až 7 různých bloků, které můžeme rotovat a skládat je na sebe. 
+Když se mi povede, že dostanu části bloků do jednoho řádku a nebudou tam žádné mezery, tak řádek zmizí a zároveň se do skóre propíše počet řádků kolik zmizeko a taky počet bodů.
+Za jeden řádek je 100 bodů, když se mi povede zrušit víc jak jeden řádek, tak body se násobí počtem zrušených řádků.
+
+Ovládání hry: 
+    - posouvání objektu po hrací ploše: pomocí levé a pravé šipky
+    - přesunutí nebo urychlení pádu objektu: pomocí šipky, která ukazuje směrem dolu
+    - rotace objektu: klávesnou space("Mezerník")
