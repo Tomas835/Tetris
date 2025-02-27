@@ -24,3 +24,6 @@ Ovládání hry:
 
 
 ![Screenshot from 2025-02-27 14-05-57](https://github.com/user-attachments/assets/ca3fdf95-6e66-4476-ba3b-d181edc003f6)
+
+
+[Screencast from 02-27-2025 02:18:08 PM.webm](https://github.com/user-attachments/assets/f62bd6e7-28cc-4cd1-a955-8ef8c37f7ffd)
