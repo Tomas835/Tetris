@@ -21,3 +21,6 @@ Ovládání hry:
     - posouvání objektu po hrací ploše: pomocí levé a pravé šipky
     - přesunutí nebo urychlení pádu objektu: pomocí šipky, která ukazuje směrem dolu
     - rotace objektu: klávesnou space("Mezerník")
+
+
+![Screenshot from 2025-02-27 14-05-57](https://github.com/user-attachments/assets/ca3fdf95-6e66-4476-ba3b-d181edc003f6)
